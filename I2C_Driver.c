@@ -1,7 +1,7 @@
 /*
  ********************************************************************************************
  *                                                                                          *
- *        Authors: Esraa Ahmed & Mohamed Rostom                                             *
+ *        Authors: Esraa Ahmed                                             *
  *        Date: 11/6/2018                                                                   *
  *        Microcontroller: TM4C123GH6PM                                                     *
  *                                                                                          *
